@@ -1,2 +1,2 @@
-# wrdrdorg.github.io
-https://wrdrdorg.github.io/
+# wrdrd.org
+https://wrdrd.org/
